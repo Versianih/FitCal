@@ -20,7 +20,7 @@ python main.py
 
 3. Preencha os dados solicitados na interface e clique em "Calcular".
 
-## Aviso importante
+## IMPORTANTE!
 
 **Este projeto é apenas para fins de aprendizado. Não utilize os dados gerados para montar uma dieta sem acompanhamento de um profissional de saúde ou nutricionista.**
 
